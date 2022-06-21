@@ -1,7 +1,8 @@
 Hi 👋 I'm Pat Trudel 
 ---
 
-Efficiency obsessed developer experienced in building intuitive and performant user experiences. I take pride in my work and strive to bring as much joy as I can to the world through technology.
+Efficiency obsessed developer experienced in building intuitive and performant user experiences for iOS.
+I take pride in my work and strive to bring as much joy as I can to the world through technology.
 
 ---
 
