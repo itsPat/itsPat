@@ -8,7 +8,7 @@ Efficiency obsessed developer experienced in building intuitive and performant u
 ### Contact Me
 
  <p align="left"> 
-  <a href="tel:+15149276775" target="_blank" rel="noreferrer">
+  <a href="tel:+1514-927-6775" target="_blank" rel="noreferrer">
     <img src="https://media.idownloadblog.com/wp-content/uploads/2016/01/2013-08-26_09-38-25__Phone_iOS7_App_Icon_Rounded.png" width="32" height="32" />
   </a> 
   <a href="mailto:patrick.trudel@me.com" target="_blank" rel="noreferrer">
