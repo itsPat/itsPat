@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/d841b916d2e47f029c65329982b90ec6-sticker.png" width="280" height="280" />
+</p>
+
 Hi 👋 I'm Pat Trudel 
 ---
 
