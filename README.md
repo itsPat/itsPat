@@ -5,7 +5,7 @@
 Hi 👋 I'm Pat Trudel 
 ---
 
-Efficiency obsessed developer experienced in building intuitive and performant user experiences for iOS.
+Efficiency obsessed Software Developer (Full Stack | AI | iOS)
 I take pride in my work and strive to bring as much joy as I can to the world through technology.
 
 ---
