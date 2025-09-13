@@ -4,9 +4,9 @@
 </p>
 
 
-# Pat Trudel  (iOS · Full Stack · AI)
+# Pat Trudel  (Applied AI · Full Stack · iOS akO)
 
->I'm a versatile software developer with expertise in iOS development, full-stack web applications, and AI integration.
+>Software Engineer with expertise across Applied AI, Full Stack and iOS.
 
 ## 💻 Tech Stack
 
@@ -20,11 +20,17 @@
 ![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgresql-3E668E?style=for-the-badge&logo=postgresql&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-4D8BC6?style=for-the-badge&logo=trpc&logoColor=white)
+![oRPC](https://img.shields.io/badge/oRPC-4365D6?style=for-the-badge&logo=orpc&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 #### AI & Machine Learning
 ![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-284444?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1A4564?style=for-the-badge&logo=langgraph&logoColor=white)
+
 
 #### Service Providers
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -39,7 +45,7 @@
 
 ## 🏆 Career Highlights
 
-- Built and sold AI-powered entertainment platform that reached 2M users organically and achieved profitability within 6 months.
+- Built and sold AI entertainment platform with over 2M users
 - CTO @ Lolly
 - Built the Tokyo 2020 Olympics app for Canada as part of a team of 3
 
