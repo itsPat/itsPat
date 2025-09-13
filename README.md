@@ -4,7 +4,7 @@
 </p>
 
 
-# Pat Trudel  (Applied AI · Full Stack · iOS akO)
+# Pat Trudel  (Applied AI · Full Stack · iOS)
 
 >Software Engineer with expertise across Applied AI, Full Stack and iOS.
 
